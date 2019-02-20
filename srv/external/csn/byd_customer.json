@@ -1,0 +1,26 @@
+{
+    "definitions": {
+        "cust.Customer": {
+            "kind": "entity",
+            "@cds.persistence.skip": true,
+            "elements": {
+                "ObjectID": {
+                    "key": true,
+                    "type": "cds.String",
+                    "length": 70
+                },
+                "InternalID": {
+                    "type": "cds.String",
+                    "length": 10
+                },
+                "UUID": {
+                    "type": "cds.UUID"
+                },
+                "BusinessPartnerName": {
+                    "type": "cds.String",
+                    "length": 40
+                }
+            }
+        }
+    }
+}
