@@ -120,4 +120,5 @@ none
 ## Support
 This project is provided "as-is": there is no guarantee that raised issues will be answered or addressed in future releases.
 ## License
-Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
+This repository is released under the terms of the MIT license. See [LICENSE](https://github.com/B1SA/hackathon/blob/master/LICENSE) for more information or see https://opensource.org/licenses/MIT.
+
